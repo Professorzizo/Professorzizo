@@ -3,7 +3,7 @@
 🛡️ **Security Researcher | Bug Bounty Hunter | Pentester**  
 🔍 Specialized in Web, API, and Cloud Security  
 🏆 CTF Player | Open Source Contributor | Junior Pentester  
-📫 Reach me: **your.email@example.com**
+📫 Reach me: **steel8566@gmail.com**
 
 ---
 
@@ -38,13 +38,8 @@
 
 ---
 
-## 🏆 Featured Repositories
-- 🔗 [BugBounty-Automation](https://github.com/YourUsername/BugBounty-Automation) – Recon & Scanning Pipeline  
-- 🔗 [Custom-Nuclei-Templates](https://github.com/YourUsername/Custom-Nuclei-Templates) – Security Templates for Automation  
-- 🔗 [Web3-Security-Toolkit](https://github.com/YourUsername/Web3-Security-Toolkit) – Tools for Web3 Bug Bounty  
-
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=YourUsername&color=blue&style=flat)  
-![GitHub Followers](https://img.shields.io/github/followers/YourUsername?style=social)  
-![GitHub Stars](https://img.shields.io/github/stars/YourUsername?style=social)  
+![Profile Views](https://komarev.com/ghpvc/?username=Professorzizo&color=blue&style=flat)  
+![GitHub Followers](https://img.shields.io/github/followers/Professorzizo?style=social)  
+![GitHub Stars](https://img.shields.io/github/stars/Professorzizo?style=social)  
